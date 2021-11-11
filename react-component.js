@@ -16,7 +16,12 @@
 	}
   
  /* 
-React functional components as well. In this code, we have a class called ‘Post’, so it’s a ‘Post’ component. It extends the component class in the React library. 
-And we have our render() method (which is the only required lifeylle method). This method takes care of rendering the component on the page and returning JSX. JavaScript expressions are embedded directly in the markup. 
-Component states are created by creating a state object with different key pairs. Any JavaScript expressions can be included inside of the curly braces.
+React functional components as well. 
+In this code, there is a class called ‘Post’, so it’s a ‘Post’ component. 
+It extends the component class in the React library. 
+And we have our render() method (which is the only required lifeylle method). 
+This method takes care of rendering the component on the page and returning JSX. 
+JavaScript expressions are embedded directly in the markup. 
+Component states are created by creating a state object with different key pairs. 
+Any JavaScript expressions can be included inside of the curly braces.
 */
